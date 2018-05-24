@@ -25,7 +25,7 @@ const main = document.getElementById('main')
 
 main.addEventListener('click', function(event) {
   alert('I was clicked!')
-})
+})git@github.com:learn-co-students/listening-to-dom-nodes-bootcamp-prep-000.git
 ```
 
 Now if you click on the `main` element (you can click its text, "My ID is 'main'!"), you should see an alert: `'I was clicked!'. What's going on here?
